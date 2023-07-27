@@ -1,2 +1,2 @@
 # Weighted-envelope-correlation-based-waveform-inversion
-**This repository reproduces the results of the submitted paper "Weighted Envelope Correlation-based Waveform Inversion Using Automatic Differentiation" to IEEE TGRS. We will upload the codes when the manuscript is accepted for publication.
+**This repository reproduces the results of the accepted paper "Weighted Envelope Correlation-based Waveform Inversion Using Automatic Differentiation" by IEEE TGRS. 
