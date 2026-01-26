@@ -13,11 +13,17 @@ pip install deepwave==0.0.9
 If you find our codes and publications helpful, please kindly cite the following publication.
 
 @article{song2023weighted,
+
   title={Weighted Envelope Correlation-based Waveform Inversion Using Automatic Differentiation},
+  
   author={Song, Chao and Wang, Yanghua and Richardson, Alan and Liu, Cai},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+  
   year={2023},
-  volume={61}
+  
+  volume={61},
+  
   publisher={IEEE}
 }
 
